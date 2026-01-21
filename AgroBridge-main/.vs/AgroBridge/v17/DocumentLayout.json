@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|c:\\users\\asus\\desktop\\agrobridge-main\\agrobridge-main\\agrobridge\\applyfordonateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|solutionrelative:agrobridge\\applyfordonateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|c:\\users\\asus\\desktop\\agrobridge-main\\agrobridge-main\\agrobridge\\applyfordonateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|solutionrelative:agrobridge\\applyfordonateclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|c:\\users\\asus\\desktop\\agrobridge-main\\agrobridge-main\\agrobridge\\allwasteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|solutionrelative:agrobridge\\allwasteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|c:\\users\\asus\\desktop\\agrobridge-main\\agrobridge-main\\agrobridge\\addcartclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0997049D-1CC3-49F1-A2F3-C6FCFA3F86A2}|AgroBridge\\AgroBridge.csproj|solutionrelative:agrobridge\\addcartclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplyForDonateClass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\ApplyForDonateClass.cs",
+              "RelativeDocumentMoniker": "AgroBridge\\ApplyForDonateClass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\ApplyForDonateClass.cs",
+              "RelativeToolTip": "AgroBridge\\ApplyForDonateClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:41:22.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplyForDonateClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\ApplyForDonateClass.cs",
+              "RelativeDocumentMoniker": "AgroBridge\\ApplyForDonateClass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\ApplyForDonateClass.cs [Design]",
+              "RelativeToolTip": "AgroBridge\\ApplyForDonateClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:41:18.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllWasteItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\AllWasteItem.cs",
+              "RelativeDocumentMoniker": "AgroBridge\\AllWasteItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\AllWasteItem.cs [Design]",
+              "RelativeToolTip": "AgroBridge\\AllWasteItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:41:16.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCartClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\AddCartClass.cs",
+              "RelativeDocumentMoniker": "AgroBridge\\AddCartClass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AgroBridge-main\\AgroBridge-main\\AgroBridge\\AddCartClass.cs [Design]",
+              "RelativeToolTip": "AgroBridge\\AddCartClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:41:12.516Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
