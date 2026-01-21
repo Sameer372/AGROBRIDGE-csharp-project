@@ -1,4 +1,4 @@
-#🌾AgroBridge
+# 🌾AgroBridge
 
 AGROBRIDGE - A Digital Platform for Agricultural Empowerment AGROBRIDGE is a multifunctional platform designed to revolutionize the agricultural sector by digitally connecting farmers, service providers, and contributors. The platform supports essential agricultural operations through an easy-to-use interface that enables:
 
